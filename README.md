@@ -1,5 +1,5 @@
-```markdown
-# 📅 MeetingSync
+
+## 📅 MeetingSync
 
 Bem-vindo ao **MeetingSync**! 🎉
 
@@ -26,7 +26,6 @@ MeetingSync é um aplicativo que ajuda a gerenciar sua agenda 📆, as pautas tr
 3. **Execução**: Compile e execute o aplicativo no Xcode.
    ```swift
    // No Xcode, clique no botão de play para executar o aplicativo.
-   ```
 
 ## Contribuição
 
@@ -39,4 +38,3 @@ Este projeto está licenciado sob a Licença MIT. 📜
 ---
 
 Feito com ❤️ por Fernanda Andreia.
-```
