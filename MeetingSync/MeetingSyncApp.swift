@@ -11,7 +11,7 @@ import SwiftUI
 struct MeetingSyncApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandingPageView()
         }
     }
 }
