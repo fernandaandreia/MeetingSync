@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A929ED0E2C9C333300B6D8FB /* ContactListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A929ED0D2C9C333300B6D8FB /* ContactListView.swift */; };
 		A9C43E9D2C9B1A1300C9CF20 /* MeetingSyncApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9C43E9C2C9B1A1200C9CF20 /* MeetingSyncApp.swift */; };
 		A9C43E9F2C9B1A1300C9CF20 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9C43E9E2C9B1A1300C9CF20 /* ContentView.swift */; };
 		A9C43EA12C9B1A1400C9CF20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9C43EA02C9B1A1400C9CF20 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A929ED0D2C9C333300B6D8FB /* ContactListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactListView.swift; sourceTree = "<group>"; };
 		A9C43E992C9B1A1200C9CF20 /* MeetingSync.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeetingSync.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9C43E9C2C9B1A1200C9CF20 /* MeetingSyncApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingSyncApp.swift; sourceTree = "<group>"; };
 		A9C43E9E2C9B1A1300C9CF20 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				A9C43E9C2C9B1A1200C9CF20 /* MeetingSyncApp.swift */,
 				A9C43E9E2C9B1A1300C9CF20 /* ContentView.swift */,
+				A929ED0D2C9C333300B6D8FB /* ContactListView.swift */,
 				A9C43EA02C9B1A1400C9CF20 /* Assets.xcassets */,
 				A9C43EA22C9B1A1400C9CF20 /* MeetingSync.entitlements */,
 				A9C43EA32C9B1A1400C9CF20 /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A929ED0E2C9C333300B6D8FB /* ContactListView.swift in Sources */,
 				A9C43E9F2C9B1A1300C9CF20 /* ContentView.swift in Sources */,
 				A9C43E9D2C9B1A1300C9CF20 /* MeetingSyncApp.swift in Sources */,
 			);
